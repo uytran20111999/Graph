@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(96): warning C4018: '<=': signed/unsigned mismatch
+c:\users\uytra\desktop\graph al\graph\graph\source.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  graph.vcxproj -> C:\Users\uytra\Desktop\graph al\graph\Debug\graph.exe
+  graph.vcxproj -> C:\Users\uytra\Desktop\graph al\graph\Debug\graph.pdb (Full PDB)
